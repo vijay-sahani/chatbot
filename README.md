@@ -11,6 +11,8 @@ It will be used to speak the output
 To scrap the wikipedia articles  
 
 **Screenshots**   
+![alt text](https://github.com/[VJ-s20]/[chabot]/blob/[master]/Screenshot/full.jpg?raw=true)
+
 ![Alt text](/Screenshot/full.jpg?raw=true " ")  
 **Fully customizabel background and font**  
 ![Alt text](/Screenshot/background.jpg?raw=true " ")
