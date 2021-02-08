@@ -1,9 +1,7 @@
 # Chatbot
-* What can this A.I. assistant do for you? It can send emails with attachments for you. It can play music for you. It can do Wikipedia searches for you. It is capable of opening websites like Google, Youtube, etc., in a web browser. It is capable of opening your code editor or IDE with a single command .
+ What can this A.I. assistant do for you? It can send emails with attachments for you. It can play music for you. It can do Wikipedia searches for you. It is capable of opening websites like Google, Youtube, etc., in a web browser. It is capable of opening your code editor or IDE with a single command .
 
-* Right now I am simple using the keyword to retrieve the data from the file. The motive was to create a simple chatbot which can do multiple tasks.
-
-Modules to install  
+* Modules to install  
 >1)pyttsx3 (pip install pyttsx3)  
 It will be used to speak the output  
 
@@ -38,9 +36,19 @@ password = "your password"  # Your password
 
 ***Don't forget to turn on 'Allow less secure apps' Oherwise it won't work***
 
-* 2. Wikipedia 
+* 2. Wikipedia Search
 ```
 > shahrukh khan wiki 
-<According to wikipedia Shah Rukh Khan (pronounced [ˈʃaːɦrʊx xaːn]; born 2 November 1965), also known by the initialism SRK, is an Indian actor, film producer, and television personality. Referred to in the media as the "Baadshah of Bollywood" (in reference to his 1999 film Baadshah), "King of Bollywood" and "King Khan"
+< According to wikipedia Shah Rukh Khan (pronounced [ˈʃaːɦrʊx xaːn]; born 2 November 1965), also known by the initialism SRK, is an Indian actor, film producer, and television personality. Referred to in the media as the "Baadshah of Bollywood" (in reference to his 1999 film Baadshah), "King of Bollywood" and "King Khan"
 ```
-**And there are much more functionlity** 
+* 3. Retriveing Data From The File 
+```
+eg:what is <Your Question>
+> what is List Comprehensions ?
+< List Comprehensions is convenient ways to generate or extract information from lists.
+```
+I am using the keyword to retrieve the data from the file so the output's will be static. 
+You can add more data if you want.  
+It's not a very convinent way to retrive your data but still it works .
+
+**To find more functionlity Please refer code.** 
