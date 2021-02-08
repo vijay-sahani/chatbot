@@ -14,9 +14,10 @@ To scrap the wikipedia articles
 ![full](https://user-images.githubusercontent.com/72274744/107212698-5958da80-6a2d-11eb-8b85-da2fc1053b9e.JPG)
 
 
-![Alt text](/Screenshot/full.jpg?raw=true " ")  
+  
 **Fully customizabel background and font**  
-![Alt text](/Screenshot/background.jpg?raw=true " ")
+![background](https://user-images.githubusercontent.com/72274744/107212893-a0df6680-6a2d-11eb-9214-1958ab164c91.JPG)
+
 
 ## How to use ? 
 * 1. To Send Email Attachment  
@@ -30,8 +31,10 @@ password = "your password"  # Your password
                               # If yes then give him the file location and your are done  
 ```
 * Demo:  
-![Alt text](/Screenshot/attchment.jpg?raw=true " ")
-![Alt text](/Screenshot/email.jpg?raw=true " ")
+![attchment](https://user-images.githubusercontent.com/72274744/107213235-219e6280-6a2e-11eb-80f0-dafc11029988.JPG)
+
+![email](https://user-images.githubusercontent.com/72274744/107213291-32e76f00-6a2e-11eb-8b88-b848c4f92b72.JPG)
+
 
 ***Don't forget to turn on 'Allow less secure apps' Oherwise it won't work***
 
